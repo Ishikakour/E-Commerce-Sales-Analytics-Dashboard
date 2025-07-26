@@ -14,7 +14,7 @@ This interactive Power BI dashboard provides comprehensive insights into an e-co
 - Power Query for data cleaning and transformation
 
 ## 🖼️ Preview
-![Dashboard Screenshot](Screenshot%202025-07-26%20at%2018.55.23.png)
+![Dashboard Screenshot](dashboard.png)
 
 ## 📂 Files Included
 - `project.pbix`: Power BI report file
