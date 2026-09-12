@@ -14,7 +14,7 @@ This interactive Power BI dashboard provides comprehensive insights into an e-co
 - Power Query for data cleaning and transformation
 
 ## 🖼️ Preview
-![Dashboard Screenshot]([dashboard.png](https://github.com/Ishikakour/E-Commerce-Sales-Analytics-Dashboard/blob/main/Dashboard.png)
+![Dashboard Screenshot](dashboard1.png)
 
 ## 📂 Files Included
 - `project.pbix`: Power BI report file
