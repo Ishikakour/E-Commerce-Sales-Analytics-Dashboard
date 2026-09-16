@@ -14,6 +14,6 @@ Raw CSV → Python (Pandas) → Power BI (DAX Measures, Power Query)
 **Tools:** Power BI, DAX, Power Query, Excel
 
 **Repository Contents:**
-- `dashboard.png` — Power BI file with all DAX measures
+- `dashboard1.png` — Power BI file with all DAX measures
 - `data_clean.py` — Python data cleaning and transformation script
 - `analysis.sql` — SQL queries for KPI calculation
