@@ -21,4 +21,4 @@ Raw CSV → Power Query (Data Cleaning) → Power BI (DAX Measures, Visualizatio
 ![Dashboard Screenshot](dashboard1.png)
 
 **Tech Stack:** Power BI, DAX, Power Query
-**Files:** `project.pbix`, `dashboard1.png`
+**Files:**  `dashboard1.png`
