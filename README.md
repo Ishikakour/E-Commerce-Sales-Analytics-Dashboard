@@ -18,7 +18,7 @@ Raw CSV → Power Query (Data Cleaning) → Power BI (DAX Measures, Visualizatio
 3. **Regional Focus:** Restrict high-risk COD orders in Madhya Pradesh or require a deposit for high-value orders in that region.
 
 **Dashboard Preview:**
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](dashboard1.png)
 
 **Tech Stack:** Power BI, DAX, Power Query
 **Files:** `project.pbix`, `dashboard1.png`
