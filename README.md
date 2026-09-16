@@ -1,28 +1,19 @@
-# E-Commerce-Sales-Analytics-Dashboard
-This interactive Power BI dashboard provides comprehensive insights into an e-commerce platform’s sales performance across time, regions, and product categories.
+# E-Commerce Sales Analytics Dashboard
 
-## 📌 Key Features
-- **Monthly Revenue Trends** – Analyze how revenue changes over months.
-- **Top-Selling Products** – Visualize the most profitable products.
-- **Region-wise Sales** – Identify which regions perform best.
-- **Customer Segmentation** – Explore customer types and behaviors.
-- **Interactive Filters** – Slicers for product category, region, and time period.
+**Business Problem:** An e-commerce marketplace was experiencing stagnating quarterly sales despite growing customer acquisition. Leadership needed visibility into which regions, payment methods, and product categories were driving profitability — and which were eroding it.
 
-## 🔧 Tools Used
-- Power BI Desktop
-- DAX for calculated columns and measures
-- Power Query for data cleaning and transformation
+**Data Architecture:**
+Raw CSV → Python (Pandas) → Power BI (DAX Measures, Power Query)
 
-## 🖼️ Preview
-![Dashboard Screenshot](dashboard1.png)
+**Key Findings:**
+- COD was the dominant payment method (42.87%), correlating with higher return rates in non-metro regions
+- Clothing accounted for 60% of quantity sold but contributed disproportionately low profit margins
+- July–September quarter showed 23% higher profit than Q1, driven by regional sales in Maharashtra and Karnataka
+- Average order value: ₹19K; total sales tracked: ₹72K across 1,017 units
 
-## 📂 Files Included
-- `project.pbix`: Power BI report file
-- `exported_report.pdf`: A PDF version of the dashboard
-- `images/`: Contains dashboard screenshots
-- `data/`: Sample or mock data (if included)
+**Tools:** Power BI, DAX, Power Query, Excel
 
-## 📎 How to Use
-1. Clone or download the repository.
-2. Open the `.pbix` file using Power BI Desktop.
-3. Interact with the visuals and filters to explore insights.
+**Repository Contents:**
+- `dashboard.png` — Power BI file with all DAX measures
+- `data_clean.py` — Python data cleaning and transformation script
+- `analysis.sql` — SQL queries for KPI calculation
